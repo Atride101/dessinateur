@@ -1,11 +1,5 @@
 ;; Fichier : "tp2-def.scm"
 
-;; Copyright (C) 2001-2012 Universite de Montreal, Tous Droits Reserves.
-
-;;-----------------------------------------------------------------------------
-
-;; Definitions pour le TP2.
-
 ;;-----------------------------------------------------------------------------
 
 ;; Representation des vecteurs et segments.

@@ -1,6 +1,6 @@
 ;; Fichier : "tp2.scm"
 
-;; Auteur(s) : Benoit Hamel, Trong-Tan Nguyen
+;;-----------------------------------------------------------------------------
 
 ;;cree une ligne entre deux vecteurs. le segmens cree est un ensemble de petits segments
 (define ligne
